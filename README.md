@@ -13,6 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+<p align="center">
+  <img src="https://your-image-url-here" alt="Robs Banner" width="100%" />
+</p>
+-->
+
+<p align="center">
+  <svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#1e3c72;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#2a5298;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="150" fill="url(#grad)" />
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Verdana, sans-serif" font-size="24" fill="#ffffff">
+      Robs | Data Guy • Builder • Educator
+    </text>
+  </svg>
+</p>
+
+
+
 # 👋 Hi, I'm Robs (Robert Isoe Ntabo) — Data Guy. Builder. Educator.  
 
 Welcome to my GitHub space! I'm a passionate **Data Scientist**, **Business Intelligence Strategist**, and aspiring **Tech Founder**, with over 7 years of experience in the banking industry. I specialize in building analytics solutions that drive strategy, performance, and innovation.
@@ -56,4 +79,7 @@ Welcome to my GitHub space! I'm a passionate **Data Scientist**, **Business Inte
 ---
 
 > ⚡ Built with 💡 and assisted by [ChatGPT](https://openai.com/chatgpt) — because I believe in co-creating with AI.
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ntaboisoe&style=for-the-badge)
+
 
