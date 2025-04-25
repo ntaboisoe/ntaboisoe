@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
-  <img src="./assets/robs-banner.png" alt="Robs Banner" width="100%" />
-</p>
 
 
 <p align="center">
@@ -82,4 +79,7 @@ Welcome to my GitHub space! I'm a passionate **Data Scientist**, **Business Inte
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ntaboisoe&style=for-the-badge)
 
+<p align="center">
+  <img src="./assets/robs-banner.png" alt="Robs Banner" width="100%" />
+</p>
 
