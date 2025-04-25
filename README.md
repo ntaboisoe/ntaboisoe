@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 <p align="center">
-  <img src="https://your-image-url-here" alt="Robs Banner" width="100%" />
+  <img src="./assets/robs-banner.png" alt="Robs Banner" width="100%" />
 </p>
--->
+
 
 <p align="center">
   <svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
